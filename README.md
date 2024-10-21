@@ -7,14 +7,10 @@ laboratorio de TO - 2024 B - UNSA
 ## Ejecucion
 
 ### OPCION 1
-<p> Para ejecutar el archivo, puede dirigirse a la carpeta de 
-  
-  **Ejecutables** y  descomprimir el zip donde se encuentra el ejecutable y sus librerias </p>
+*<p> Para ejecutar el archivo, puede dirigirse a la carpeta de **Ejecutables** y  descomprimir el zip donde se encuentra el ejecutable y sus librerias </p>
 
 >El ejecutable por ahora solo esta disponible para maquinas Windows
 
 ### OPCION 2
-<p> Puede dirigirse a la carpeta de 
-  
-  **Archivos** y abrirlo en Qt creator, una vez adentro haga click en **Build** para construir el proyecto en su maquina y ejecutelo con **run** </p>
+*<p> Puede dirigirse a la carpeta de **Archivos** y abrirlo en Qt creator, una vez adentro haga click en **Build** para construir el proyecto en su maquina y ejecutelo con **run** </p>
 

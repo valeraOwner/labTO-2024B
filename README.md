@@ -11,4 +11,5 @@ laboratorio de TO - 2024 B - UNSA
 > El ejecutable por ahora solo esta disponible para maquinas Windows
 
 ### OPCION 2
-<p> Puede dirigirse a la carpeta de **Archivos** y abrirlo en Qt creator, una vez adentro haga click en **Build** para construir el proyecto en su maquina y ejecutelo con **run** </p>
+<p> Puede dirigirse a la carpeta de ** Archivos ** y abrirlo en Qt creator, una vez adentro haga click en **Build** para construir el proyecto en su maquina y ejecutelo con **run** </p>
+**Archivos**

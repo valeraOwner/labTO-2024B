@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Ventana</class>
+ <widget class="QMainWindow" name="Ventana">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>422</width>
+    <height>412</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Ventana</string>
+  </property>
+  <property name="animated">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="boton">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>40</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>INICIAR</string>
+    </property>
+   </widget>
+   <widget class="QListWidget" name="lista">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>50</y>
+      <width>151</width>
+      <height>311</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>PERU</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>CHILE</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>BOLIVIA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ARGENTINA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>COLOMBIA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ECUADOR</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>VENEZUELA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>PARAGUAY</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>URUAGUAY</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>USA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>CANADA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ESPAÑA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>FRANCIA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ITALIA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>PORTUGAL</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>BRASIL</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>CHINA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>JAPON</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>RUSIA</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>MARRUECOS</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>FILIPINAS</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>170</y>
+      <width>63</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>IDIOMA</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>260</y>
+      <width>63</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>CAPITAL</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>200</y>
+      <width>113</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="mouseTracking">
+     <bool>false</bool>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_2">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>300</y>
+      <width>113</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="mouseTracking">
+     <bool>false</bool>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>422</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

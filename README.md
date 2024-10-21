@@ -7,7 +7,7 @@ laboratorio de TO - 2024 B - UNSA
 ## Ejecucion
 
 ### OPCION 1
-* Para ejecutar el archivo, puede dirigirse a la carpeta de **Ejecutables** y  descomprimir el zip donde se encuentra el ejecutable y sus librerias.
+* Para ejecutar el archivo, puede dirigirse a la carpeta de **Ejecutable-Paises-idiomas** y  descomprimir el zip donde se encuentra el ejecutable y sus librerias.
 
 >El ejecutable por ahora solo esta disponible para maquinas Windows
 
